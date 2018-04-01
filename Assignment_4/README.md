@@ -1,4 +1,3 @@
-# Assignment_3---Murmansk
 
 # IA - Matt Resnikoff
 
