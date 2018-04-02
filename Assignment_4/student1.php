@@ -54,8 +54,6 @@
 
 
 
-		
-		<div class="two">
 
 		<h2>Interests & Hobbies involving Comp Sci</h2>
 		<div class="two">
