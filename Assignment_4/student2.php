@@ -20,7 +20,7 @@
 	<h1></h1>
 	<h2>About Me & Education</h2>
 	<div class="wrap">	
-	<img src="images/sid.jpg" alt="image of me" height="325" width="300">
+	<img src="images/sid.jpg" alt="image of me" height="275" width="225">
 
 
 		
