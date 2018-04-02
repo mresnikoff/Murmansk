@@ -20,7 +20,7 @@
 	<h1></h1>
 	<h2>About Me & Education</h2>
 	<div class="wrap">	
-	<img class="profile-pic" src="images/kyle.jpg" alt="Kyle" height="250" width="310">
+	<img class="profile-pic" src="images/kyle.jpg" alt="Kyle" height="325" width="300">
 
 
 
