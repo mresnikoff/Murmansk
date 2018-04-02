@@ -29,7 +29,7 @@ Proximity- For proximity, I made sure to have text boxes closely alligned with t
 
 Fonts: Throughout the site, I decided to stick with the fonts that were incorporated by the bootstrap plug-in that was used, as I felt they portrayed the mood of the site as well as I would have wanted. For the headers, the font-family inherit was used. This font was simple and did a good job of catching the reader's eyes so that they could very easily know where to look to find the information they are interested in. For the body, the font family Helvetica Neue was used, which I believe works well as it is less loud than the headers, but still comes off as very sleek and modern. Having the words in all caps adds to this feeling as well. This same font is used for the copyright on the bottom of the pages, and the bar on the top of the home page. 
 
-Layout Implementations:
+Layout Implementations: For the display throughout, we used CSS Flex in order to portray all items in an organized manner. I believe that using the flex option was necessary to display our allignment and proximity just as we wanted. And again, the flex option compliments the modern and sleek feel we wanted to help give off the professional feeling behind computer science and finance majors.
 
 
 
