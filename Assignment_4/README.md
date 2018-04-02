@@ -13,8 +13,9 @@ Layout- This'll be similar to the previous IA's layout, first section should hav
 
 Typeface/Fonts - All headers should have big blocky font, the information that follows should be smaller and scriptier but still somewhat blocky to go with the header. The previous IA used a good custom font we can use. Should be consistent throughout.
 
-Form- First asks for the users name in a small textbox. Then asks for input about who had the most interesting background. Since the first three are all similar, the obvious choice should be Oliver, but since he's a fin econ major it should be fun to see how many find that "interesting". Layout has a multiple choice form with radio buttons asking who had the most interesting background, and then an open textbox forum where the user can explain why.
+Form- First asks for the users name in a small textbox. Then asks for input about who had the most interesting background. Since the first three are all similar, the obvious choice should be Oliver, but since he's a fin econ major it should be fun to see how many find that "interesting". Layout has a multiple choice form with radio buttons asking who had the most interesting background, and then an open textbox forum where the user can explain why. When the user clicks submit it will lead to the studentAdded.php page, which gives the user the option to go back to the website and informs them that their submission was succesful.
 
+# Designer- Oliver Ostriker
 Color Choices, Borders/Edges, Etc.: The IA and I (Oliver) wanted the site to have a sleek and modern feel to it, so this was the main basis for my color choices. We believed that computer science and finance both match up well with the sleek Throughout the pages, the text was highlighted by either copper or silver/gray, and the top bar highlighted brown when scrolled over, and teal when the page is selected. This, along with the white background for the whole page and gray, black, and white font colors I believed gave off the feel we were looking for quite perfectly.
 
 CRAP:
