@@ -32,6 +32,12 @@ Fonts:  For the headers, the font-family "Lato" was used. This font was simple a
 
 Layout Implementations: For the display throughout, we used CSS Flex in order to portray all items in an organized manner. I believe that using the flex option was necessary to display our allignment and proximity just as we wanted. And again, the flex option compliments the modern and sleek feel we wanted to help give off the professional feeling behind computer science and finance majors.
 
+# coder Albert Nissim
+
+Known issues & defficiencies in the website: On the homepage of the website, in the div class "slides" there is a grey bar going down the left side of the image and along the bottom of the image that we have not been able to get rid of.  
+
+
+
 
 
 
